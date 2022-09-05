@@ -1,0 +1,12 @@
+name: pw
+channels:
+  - conda-forge
+dependencies:
+  - python==3.10.6
+  - jupyter==1.0.0
+  - dash==2.6.1
+  - dash-bootstrap-components==1.2.1
+  - pip==21.2.4
+  - matplotlib==3.5.3
+  - numpy==1.23.2
+  - pandas==1.4.4
